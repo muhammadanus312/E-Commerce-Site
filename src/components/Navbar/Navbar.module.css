@@ -1,0 +1,29 @@
+.navbar {
+  width: 100%;
+  background: #fafafa;
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  /* gap: 820px; */
+
+  height: 104px;
+}
+
+.cartBtn {
+  background-color: #f1e9c9;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  padding: 8px;
+}
+.locationBtn {
+    text-align: center;
+    background-color: #EBE5F9;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    font-family:Roboto-Regular ;
+}

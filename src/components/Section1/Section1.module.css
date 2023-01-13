@@ -1,0 +1,18 @@
+.section1{
+    max-width: 100%;
+  background: #fafafa;
+  min-height: 400px;
+}
+
+/* .sec1Container{
+min-height: 400px;
+} */
+
+.pic{
+/* position: absolute; */
+max-width: 400px;
+max-height: 360px;
+/* left: calc(50% - 476px/2 + 322px); */
+margin: auto;
+
+}

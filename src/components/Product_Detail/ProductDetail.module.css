@@ -1,0 +1,40 @@
+.productdetail{
+    border-radius: 20px;
+    background-color: #f3f2f2;
+    min-height: 420px;
+}
+
+
+.pic{
+width: 50%;
+/* margin: auto; */
+
+}
+.productImg{
+    height: 400px;
+    max-width: 400px;
+    margin: 20px;
+}
+
+.tag {
+    height: 25px;
+    background: #f1e9c9;
+    border-radius: 100px;
+    padding: 5px 7px;
+  }
+  
+  .tagContent {
+    font-size: 13px;
+    color: #c47f17;
+    font-family: Roboto-Bold;
+  }
+
+  .btn{
+    background-color: rgb(140, 77, 77);
+    color: white;
+    border: none;
+    width: 200px;
+    height: 40px;
+    margin: 1px;
+    border-radius: 5px;
+  }
